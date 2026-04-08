@@ -89,3 +89,4 @@ Windows 用户可以直接通过微软应用商店下载安装。
 ---
 
 🚀 完成以上步骤后，你就可以顺利使用 **Codex Desktop App** 了。
+本教程转载自codex cli中文站：https://codexcli-china.com
